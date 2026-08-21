@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Duy☕
 
-<!--
-**code-2-pro/code-2-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer with knowledge in building projects across **backend and Android development**.
+These days, I'm mainly focused on **Android development with Kotlin**, while still enjoying backend development when needed.
 
-Here are some ideas to get you started:
+### Tech I've worked with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Android**
+Kotlin · Jetpack Compose · Coroutines · Flow · MVVM · Hilt · Room · Firebase
+
+**Backend**
+Java · Spring Boot · Node.js · REST APIs · PostgreSQL · MySQL
+
+**Other**
+Flutter · Dart · C# · Git · Supabase
+
+### A few things I've built
+
+📱 **Study Assistant** — Android app built with Kotlin and Jetpack Compose, with Firebase, Room, Hilt, ML Kit, and Gemini integration.
+
+₿ **Crypto Tracker** — Android app for tracking cryptocurrency data using Kotlin, Jetpack Compose, and REST APIs.
+
+I'm always interested in learning, building things, and improving how I write software.
+
+### ✦ Quote of the day
+
+<!-- QUOTE:START -->
+
+> Loading today's quote...
+
+<!-- QUOTE:END -->
+
+<sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
+
+### Contact
+
+If you have an interesting **Android, backend, or software development opportunity**, feel free to reach out.
+
+📧 [liam.onwork@gmail.com](mailto:liam.onwork@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/nkd568)
