@@ -25,9 +25,9 @@ I'm always interested in learning, building things, and improving how I write so
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-
-> Loading today's quote...
-
+> "Listen to the secret sound, the real sound, which is inside you."
+>
+> — Kabir
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
