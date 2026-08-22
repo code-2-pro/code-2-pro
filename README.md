@@ -25,9 +25,9 @@ I'm always interested in learning, building things, and improving how I write so
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Listen to the secret sound, the real sound, which is inside you."
+> "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."
 >
-> — Kabir
+> — Nikola Tesla
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
