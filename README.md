@@ -25,9 +25,9 @@ I'm always interested in learning, building things, and improving how I write so
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."
+> "The biggest adventure you can ever take is to live the life of your dreams."
 >
-> — Nikola Tesla
+> — Oprah Winfrey
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
