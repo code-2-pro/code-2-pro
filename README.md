@@ -25,9 +25,9 @@ I'm always interested in learning, building things, and improving how I write so
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "The biggest adventure you can ever take is to live the life of your dreams."
+> "The quicker you let go of old cheese, the sooner you find new cheese."
 >
-> — Oprah Winfrey
+> — Spencer Johnson
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
