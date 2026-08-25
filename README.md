@@ -25,9 +25,9 @@ I'm always interested in learning, building things, and improving how I write so
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "The quicker you let go of old cheese, the sooner you find new cheese."
+> "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."
 >
-> — Spencer Johnson
+> — Denis Waitley
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
