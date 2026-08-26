@@ -25,9 +25,9 @@ I'm always interested in learning, building things, and improving how I write so
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."
+> "A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."
 >
-> — Denis Waitley
+> — Charles Dickens
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
