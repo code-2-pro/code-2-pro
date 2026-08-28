@@ -25,9 +25,9 @@ I'm always interested in learning, building things, and improving how I write so
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us."
+> "Whatever you decide to do, make sure it makes you happy."
 >
-> — Richard Bach
+> — Paulo Coelho
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
