@@ -34,4 +34,3 @@ Flutter · Dart · C# · Git · Supabase
 Got an interesting **Android, backend, or software development opportunity**? Feel free to reach out.
 
 📧 [liam.onwork@gmail.com](mailto:liam.onwork@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/nkd568)
