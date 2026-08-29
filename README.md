@@ -25,9 +25,9 @@ I'm always interested in learning, building things, and improving how I write so
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Whatever you decide to do, make sure it makes you happy."
+> "Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."
 >
-> — Paulo Coelho
+> — Celestine Chua
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
