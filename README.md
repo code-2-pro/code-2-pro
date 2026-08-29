@@ -1,9 +1,12 @@
-# Hi, I'm Duy☕
+# Hi, thanks for stopping by! 🌱🌸☕
 
-I'm a developer with knowledge in building projects across **backend and Android development**.
-These days, I'm mainly focused on **Android development with Kotlin**, while still enjoying backend development when needed.
+### Background
 
-### Tech I've worked with
+Developer with experience in **backend and Android development**, currently focused on **Android development with Kotlin**, while still enjoying backend work when needed.
+
+Striving to **sharpen skills and grow**, while applying that knowledge to **better understand and work with AI**.
+
+### Tech Stack
 
 **Android**
 Kotlin · Jetpack Compose · Coroutines · Flow · MVVM · Hilt · Room · Firebase
@@ -14,27 +17,21 @@ Java · Spring Boot · Node.js · REST APIs · PostgreSQL · MySQL
 **Other**
 Flutter · Dart · C# · Git · Supabase
 
-### A few things I've built
-
-📱 **Study Assistant** — Android app built with Kotlin and Jetpack Compose, with Firebase, Room, Hilt, ML Kit, and Gemini integration.
-
-₿ **Crypto Tracker** — Android app for tracking cryptocurrency data using Kotlin, Jetpack Compose, and REST APIs.
-
-I'm always interested in learning, building things, and improving how I write software.
-
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
+
 > "Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."
 >
 > — Celestine Chua
+
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
 
 ### Contact
 
-If you have an interesting **Android, backend, or software development opportunity**, feel free to reach out.
+Got an interesting **Android, backend, or software development opportunity**? Feel free to reach out.
 
 📧 [liam.onwork@gmail.com](mailto:liam.onwork@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/nkd568)
