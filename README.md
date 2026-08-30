@@ -20,11 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-
-> "Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."
+> "Keep your eyes on the goal, and just keep taking the next step towards completing it."
 >
-> — Celestine Chua
-
+> — John Carmack
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
