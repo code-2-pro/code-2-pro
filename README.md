@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Keep your eyes on the goal, and just keep taking the next step towards completing it."
+> "To a mind that is still, the entire universe surrenders."
 >
-> — John Carmack
+> — Zhuangzi
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
