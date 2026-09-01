@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "To a mind that is still, the entire universe surrenders."
+> "Stop wasting time defending your problems and work on addressing them instead."
 >
-> — Zhuangzi
+> — Celestine Chua
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
