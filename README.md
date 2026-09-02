@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Stop wasting time defending your problems and work on addressing them instead."
+> "Force has no place where there is need of skill."
 >
-> — Celestine Chua
+> — Herodotus
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
