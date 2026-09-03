@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Force has no place where there is need of skill."
+> "If you don't find the time, if you don't do the work, you don't get the results."
 >
-> — Herodotus
+> — Arnold Schwarzenegger
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
