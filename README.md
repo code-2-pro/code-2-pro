@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "If you don't find the time, if you don't do the work, you don't get the results."
+> "Do good by stealth, and blush to find it fame."
 >
-> — Arnold Schwarzenegger
+> — Alexander Pope
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
