@@ -20,9 +20,9 @@ Flutter · Dart · C# · Git · Supabase
 ### ✦ Quote of the day
 
 <!-- QUOTE:START -->
-> "Do good by stealth, and blush to find it fame."
+> "However difficult life may seem, there is always something you can do and succeed at."
 >
-> — Alexander Pope
+> — Stephen Hawking
 <!-- QUOTE:END -->
 
 <sub>Quotes provided by <a href="https://zenquotes.io/">ZenQuotes API</a></sub>
